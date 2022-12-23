@@ -1,3 +1,4 @@
-go mod init example.com/golangrestapi
-go mod tidy
-go run main.go
+# Commands
+    go mod init example.com/golangrestapi
+    go mod tidy
+    go run main.go
