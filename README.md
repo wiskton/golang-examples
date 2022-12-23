@@ -3,7 +3,7 @@
 ## initial project
     go mod init project
 
-## install package
+## example how install package
     go get github.com/urfave/cli
 
 ## run program
